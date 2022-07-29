@@ -36,7 +36,7 @@ namespace ConsoleApp4
                     _ => 0
                 };
 
-                Console.WriteLine(result != 0 ? result : "Proqramda sehvlik var") ;
+                Console.WriteLine($"result: {result}");
 
             }
 
